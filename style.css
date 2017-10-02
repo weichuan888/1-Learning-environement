@@ -1,0 +1,46 @@
+title {
+  color: yellow;
+  background color: red;
+}
+
+h1 {
+  color: yellow;
+  background-color: red;
+  font-family: Helvetica, sans-serif;
+  font-size: 60px;
+  line-height: normal;
+  word-spacing: 0.25em;
+  font-weight: bold;
+
+}
+h2 {
+  color: #FF6217;
+  background-color: #41CEFF;
+  font-style: italic;
+  font-size: 40px;
+  line-height: normal;
+  font-family: Helvetica, sans-serif;
+}
+
+h3{
+  color: white;
+  background-color: red;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-style: normal;
+}
+
+
+
+h6 {
+
+  color: bleu;
+  font-size: 30px;
+  font-style: oblique;
+  font-weight: lighter;
+}
+
+table {
+
+
+}

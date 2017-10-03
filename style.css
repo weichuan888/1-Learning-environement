@@ -18,6 +18,14 @@ a, img {
   width: 50%;
 }
 
+.objectif {
+
+  background-color: white;
+}
+.table {
+  background-color: yellow;
+}
+
 h1 {
   color: #3D9AFF;
   font-family: Helvetica, sans-serif;

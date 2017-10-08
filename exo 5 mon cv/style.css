@@ -71,4 +71,17 @@ width: 595px;
 .titre{
   font-weight: bold;
 
+
+}
+
+.section {
+  margin-top: 150px;
+
+}
+
+.sec-gauche {
+  float: left;
+}
+.sec-droite {
+  float: right;
 }

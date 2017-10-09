@@ -16,7 +16,7 @@ overflow: hidden;
 .texte {
   transform-origin: 50% 100%;
 
-
+  position: relative;
   animation-name: starwars;
   animation-duration: 20s;
   animation-delay: 1s;
@@ -64,6 +64,6 @@ p{
     transform: rotateX( 25deg ) translateZ(-700px);
   }
   100%{
-    top: -2000px;
-    transform: rotateX( 35deg ) translateZ(1500px);
+    top: -1000px;
+    transform: rotateX( 35deg ) translateZ(2000px);
   }

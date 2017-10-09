@@ -9,14 +9,7 @@ overflow: hidden;
   margin: 0 auto;
   text-align: justify;
 
-  transform: perspective(600px) rotateX(35deg);
-
-
-
-
-
-
-
+  transform: perspective(600px) rotateX(30deg);
 
 }
 
@@ -68,7 +61,7 @@ p{
   0%{
     top: 0;
 
-    transform: rotateX( 25deg ) translateZ(0);
+    transform: rotateX( 25deg ) translateZ(-700px);
   }
   100%{
     top: -2000px;

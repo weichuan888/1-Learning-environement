@@ -1,19 +1,16 @@
+
+
 .page{
 width: 800px;
 font-size: 15px;
 font-family: Helvetica;
 margin: auto;
-
-
-
-
 }
 .infophoto{
 
 position:relative;
 margin-top: 25px;
 }
-
 
 .info {
   position: absolute;
@@ -30,58 +27,29 @@ margin-top: 25px;
   box-shadow: 5px 5px 5px black;
 
 }
-.section1
+.bloc
 {
 
 }
 
-.sec-gauche1 {
-  display: inline-block;
+.section{
+    background-color: red;
+    position: relative;
 
-  margin-right: 2px;
-
-
-}
-.sec-droite1{
-  display: inline-block;
-  background-color: orange;
-  margin-left: 80px;
-}
-
-.section2{
-
-}
-.sec-gauche2{
-float: left;
-background-color: blue;
-}
-.sec-droite2{
-float: right;
-background-color: green;
-height: 210px;
-padding-top: 2px;
-margin-right: 20px;
-width: 595px;
-}
-.sec-droite2 .titre{
-  font-size: 15px;
 
 
 }
-.titre{
-  font-weight: bold;
+.sec-gauche{
 
 
 }
 
-.section {
-  margin-top: 150px;
-
-}
-
-.sec-gauche {
-  float: left;
-}
 .sec-droite {
-  float: right;
+ position: absolute;
+ top: 1px;
+ right: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+
+
 }

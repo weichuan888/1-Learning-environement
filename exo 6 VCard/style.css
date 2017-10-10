@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(http://bgfons.com/uploads/sky/sky_PNG5483.png);
+  background-image: url(http://bgfons.com/uploads/sky/sky_PNG5483.png)
 
 
 }
@@ -26,6 +26,9 @@ body {
   text-align: center;
   display: block;
   margin: 0 auto;
+  transform: scale(0.7);
+  border-radius: 150px;
+
 
 }
 
@@ -47,6 +50,14 @@ h2{
   text-align: center;
   font-size: 15px;
   font-family: fantasy;
+
+
+}
+
+.icon{
+
+
+
 
 
 }

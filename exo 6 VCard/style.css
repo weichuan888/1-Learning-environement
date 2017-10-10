@@ -1,19 +1,52 @@
+
+body {
+  background-image: url(http://bgfons.com/uploads/sky/sky_PNG5483.png);
+
+
+}
+
+
+
 .main {
-  background-color: red;
-  width: 800px;
-  height: 600px;
+
+
+  width: 1000px;
   text-align: justify;
+  border: 2px solid black;
+
+  margin: 200px auto;
+  background-image: radial-gradient(blue, white);
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px blue;
+
 
 }
 
-img {
-
-
+.main img {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 
 }
 
 
-.info {
-  
+h1 {
+  font-size: 25px;
+  text-align: center;
+
+
+}
+
+h2{
+  font-size: 18px;
+  text-align: center;
+
+}
+
+.detail  {
+  text-align: center;
+  font-size: 15px;
+  font-family: fantasy;
+
 
 }

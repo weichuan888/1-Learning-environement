@@ -11,7 +11,7 @@ Exercices HTML et CSS
 
 ## Exercice 4:
 
-[Page 404]()
+[Page 404](https://weichuan888.github.io/learning-environnement/exo%204/)
 
 ## Exercice 5:
 

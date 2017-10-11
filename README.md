@@ -1,16 +1,32 @@
 # learning-environnement
 Exercices HTML et CSS
-Exercice 8 
 
-## Présentation de Tim Berners-Lee
+## Exercice 1 et 2:
 
-### Avec ces favoris films:
-* Space Odessey
-* Monsieur Hulot
-* Alien
+[HTML et CSS]()
 
-#### Les difficultés rencontrés :
+## Exercice 3:
 
-* Centrer les div
-* aligner les textes
-* le positionnement css
+[Oeuvre Caritative: WFF]()
+
+## Exercice 4:
+
+[Page 404]()
+
+## Exercice 5:
+
+[CV]()
+
+## Exercice 6:
+
+[Carte de Visite]()
+
+## Exercice 7:
+
+[Star Wars]()
+
+## Exercice 8:
+
+[Tim Berners-Lee]()
+
+

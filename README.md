@@ -11,22 +11,22 @@ Exercices HTML et CSS
 
 ## Exercice 4:
 
-[Page 404](https://weichuan888.github.io/learning-environnement/exo%204/)
+<a href="https://weichuan888.github.io/Learning-environement/exo%204/">[Page 404]</a>
 
 ## Exercice 5:
 
-[CV]()
+<a href="https://weichuan888.github.io/Learning-environement/exo%205%20mon%20cv/"[CV]</a>
 
 ## Exercice 6:
 
-[Carte de Visite]()
+<a href="https://weichuan888.github.io/Learning-environement/exo%206%20VCard/"[Carte de Visite]</a>
 
 ## Exercice 7:
 
-[Star Wars]()
+<a href="https://weichuan888.github.io/Learning-environement/exo%207/"[Star Wars]</a>
 
 ## Exercice 8:
 
-[Tim Berners-Lee]()
+<a href="https://weichuan888.github.io/Learning-environement/exo%208/"[Tim Berners-Lee]</a>
 
 
